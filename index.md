@@ -2,7 +2,7 @@
 
 ✨ Software Engineer | XP & Agile Enthusiast | AI Explorer  
 📍 Amsterdam, Netherlands
-🔗 [mondspace.com](mailto:mmondini@mondspace.com) | [LinkedIn](https://linkedin.com/in/mondinimarco)
+🔗 [mondspace.com](mailto:mmondini@mondspace.com) | [LinkedIn](https://linkedin.com/in/mondinimarco) | [GitHub](https://github.com/mondial7)
 
 ---
 

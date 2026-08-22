@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Marco Mondini
 
-✨ Software Engineer | XP & Agile Enthusiast | AI Explorer  
+✨ Engineering Manager | Product Engineer | XP & Agile Enthusiast | AI Explorer
+
 📍 Amsterdam, Netherlands
-🔗 [mondspace.com](mailto:mmondini@mondspace.com) | [LinkedIn](https://linkedin.com/in/mondinimarco) | [GitHub](https://github.com/mondial7)
+🔗 [mondspace.com](https://mondspace.com) | [LinkedIn](https://linkedin.com/in/mondinimarco) | [GitHub](https://github.com/mondial7)
 
 ---
 
@@ -21,7 +22,7 @@ I'm a hands-on full-stack software engineer with 10+ years of experience buildin
 ### 💼 What I Do
 
 - **Head of Development @ uButler**  
-  Full-time coder, part-time manager — driving features, systems, and team evolution from the ground up.
+  Engineering Manager and Product Engineer — driving features, systems, and team evolution from the ground up.
 
 - **XP/Agile Speaker & Contributor**  
   🗣️ Speaker at XP conferences, co-chairing XP2024's Engineering Track, sharing stories about MVPs, pairing, and hybrid teamwork.

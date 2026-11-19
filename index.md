@@ -25,7 +25,7 @@ I'm a hands-on full-stack software engineer with 10+ years of experience buildin
   Engineering Manager and Product Engineer: driving features delivery, systems design, team growth, and AI adoption from the ground up.
 
 - **XP/Agile Speaker & Contributor**  
-  🗣️ Speaker at XP conferences since 2017, co-chairing XP2024's Engineering Track, sharing stories about MVPs, pairing, and hybrid teamwork.
+  Speaker at XP conferences since 2017, co-chairing XP2024's Engineering Track, sharing stories about MVPs, pairing, and hybrid teamwork.
 
 - **Educator & Mentor**
   Running coding-dojos, book-clubs, and mentoring devs on their professional journey.
